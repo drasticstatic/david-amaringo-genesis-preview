@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "bf1e377dd9f2fb00d3276956eeb0aba967862ccb",
-  "shortCommit": "bf1e377",
-  "message": "feat 2026-10-25 — David's site ready for its home: Spanish, Daylight, slideshow, AA reading inks, the same rails (Genesis Stop 8)",
+  "commit": "323a5606c04c4998f56498caabe2203bec32d88d",
+  "shortCommit": "323a560",
+  "message": "feat 2026-10-25 — Enchant's second trail: the Vine of the Soul, in the site's own jewel tones",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T08:59:49-04:00",
-  "builtAt": "2026-10-25T13:00:53.168Z"
+  "committedAt": "2026-10-25T12:52:48-04:00",
+  "builtAt": "2026-10-25T16:53:45.532Z"
 }
