@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "a43fad657ae3ec785eeace4b324d1b85d266b0da",
-  "shortCommit": "a43fad6",
-  "message": "feat 2026-10-25 — Stop 7 ready: repo links follow each lane; keys-and-locks + quickstart; no sponsor wording",
+  "commit": "5f682b655c97e5eae07111f1cc06e01c9910ddc0",
+  "shortCommit": "5f682b6",
+  "message": "feat 2026-10-25 — lineage: the drasticstatic copy waits as \"The first lab version\" (closed until the move), so Stop 7 only flips switches",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T13:02:12-04:00",
-  "builtAt": "2026-10-25T17:03:03.888Z"
+  "committedAt": "2026-10-25T13:03:52-04:00",
+  "builtAt": "2026-10-25T17:04:43.406Z"
 }
