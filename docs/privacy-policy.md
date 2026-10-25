@@ -34,4 +34,4 @@ Reach out through the [Contact page](/contact) with any questions about this pol
 
 ---
 
-*This document is also available in this site's [source repository](https://github.com/drasticstatic/david-amaringo-public-preview) as `docs/privacy-policy.md`.*
+*This document is also available as `docs/privacy-policy.md` in this site's source repository (the link below opens it).*

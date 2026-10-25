@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "323a5606c04c4998f56498caabe2203bec32d88d",
-  "shortCommit": "323a560",
-  "message": "feat 2026-10-25 — Enchant's second trail: the Vine of the Soul, in the site's own jewel tones",
+  "commit": "a43fad657ae3ec785eeace4b324d1b85d266b0da",
+  "shortCommit": "a43fad6",
+  "message": "feat 2026-10-25 — Stop 7 ready: repo links follow each lane; keys-and-locks + quickstart; no sponsor wording",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T12:52:48-04:00",
-  "builtAt": "2026-10-25T16:53:45.532Z"
+  "committedAt": "2026-10-25T13:02:12-04:00",
+  "builtAt": "2026-10-25T17:03:03.888Z"
 }

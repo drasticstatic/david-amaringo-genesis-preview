@@ -34,4 +34,4 @@ Escríbenos a través de la [página de contacto](/contact) con cualquier pregun
 
 ---
 
-*Este documento también está disponible en el [repositorio del código](https://github.com/drasticstatic/david-amaringo-public-preview) de este sitio como `docs/es/privacy-policy.md`. Traducción en revisión: David la está revisando.*
+*Este documento también está disponible como `docs/es/privacy-policy.md` en el repositorio del código de este sitio (el enlace de abajo lo abre). Traducción en revisión: David la está revisando.*

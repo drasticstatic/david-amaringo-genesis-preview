@@ -31,7 +31,7 @@ Aside from his work with his uncle, he has trained with the people of the Shipib
 David's family is currently facing financial hardship. This site exists to give him a home online — a place to be found, to share his art and his teaching, and, when the world is ready to meet him there, to be supported.
 
 **Founder & Subject:** Maestro David Amaringo
-**Sponsor:** Isaiah "Kenney" (Holy Earth Foundation)
+**Steward:** Isaiah "Kenney" (The Holy Earth Foundation)
 **Developer / builder:** Christopher Wilson (`drasticstatic`)
 **AI agent:** Alfred (Claude Code CLI)
 
@@ -95,7 +95,7 @@ npm run build
 | Role | Who |
 |------|-----|
 | **Founder & Subject** | Maestro David Amaringo |
-| **Sponsor** | Isaiah "Kenney" (Holy Earth Foundation) |
+| **Steward** | Isaiah "Kenney" (The Holy Earth Foundation) |
 | **Developer / Builder** | Christopher Wilson |
 | **Agent** | Alfred (Claude Code CLI) |
 
