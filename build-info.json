@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "5f682b655c97e5eae07111f1cc06e01c9910ddc0",
-  "shortCommit": "5f682b6",
-  "message": "feat 2026-10-25 — lineage: the drasticstatic copy waits as \"The first lab version\" (closed until the move), so Stop 7 only flips switches",
+  "commit": "b7c47777b749d2fd37046cd5bcea9e44eef421be",
+  "shortCommit": "b7c4777",
+  "message": "feat 2026-10-25 — lineage: open the foundation's rehearsal stop; live is now the foundation's address (Genesis Stop 7, step 0)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T13:03:52-04:00",
-  "builtAt": "2026-10-25T17:04:43.406Z"
+  "committedAt": "2026-10-25T17:10:56-04:00",
+  "builtAt": "2026-10-25T21:11:53.039Z"
 }

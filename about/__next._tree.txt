@@ -4,4 +4,4 @@
 :HL["/david-amaringo-genesis-preview/_next/static/media/d4b605c61b941c57-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":64,"c":"$Q2"}]]
-0:{"b":"yc9ppV42wSaZM9cDkyy92","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"_mtvHDIYP2Fq2dj4whIk_","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
