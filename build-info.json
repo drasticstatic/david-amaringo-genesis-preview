@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "f50ada09f60c950cdf9239ed9898fe0683b84027",
-  "shortCommit": "f50ada0",
-  "message": "feat 2026-10-25 — lineage: the time machine on the lab's Genesis rehearsal too; live is david.iamoneself.com",
+  "commit": "79bceb8e8bf2150cebd257d4d8d9b38cebddf7ab",
+  "shortCommit": "79bceb8",
+  "message": "feat 2026-10-25 — the arrival on the lab's Genesis rehearsal too: Spanish first, Night or Daylight, Enchant and its trail",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T19:12:43-04:00",
-  "builtAt": "2026-10-25T23:13:40.693Z"
+  "committedAt": "2026-10-25T19:27:42-04:00",
+  "builtAt": "2026-10-25T23:28:34.271Z"
 }
