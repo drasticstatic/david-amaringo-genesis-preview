@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "71e21615eaf67eaf1891013acde0df12571b6ccb",
-  "shortCommit": "71e2161",
-  "message": "docs 2026-10-25 — keys-and-locks: the org has to allow deploy keys (new orgs start with them off)",
+  "commit": "f50ada09f60c950cdf9239ed9898fe0683b84027",
+  "shortCommit": "f50ada0",
+  "message": "feat 2026-10-25 — lineage: the time machine on the lab's Genesis rehearsal too; live is david.iamoneself.com",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T17:16:21-04:00",
-  "builtAt": "2026-10-25T21:38:29.858Z"
+  "committedAt": "2026-10-25T19:12:43-04:00",
+  "builtAt": "2026-10-25T23:13:40.693Z"
 }
