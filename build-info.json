@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "74676dc8d22ecdaa6df7d7f982423e96978f1dce",
-  "shortCommit": "74676dc",
-  "message": "feat 2026-10-25 — the Living Canvas (Lienzo Vivo) on the lab's Genesis rehearsal too: David's own visionary trail beside Sparkle and the Vine",
+  "commit": "24912ceb5d7ba85bf614829c25374ca75ef70404",
+  "shortCommit": "24912ce",
+  "message": "chore 2026-10-25 — twins: the Genesis lane in step (the lanes base-path fix, the twin rule, PR template, Dependabot config, keys-and-locks)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T19:52:11-04:00",
-  "builtAt": "2026-10-25T23:53:03.670Z"
+  "committedAt": "2026-10-25T21:43:41-04:00",
+  "builtAt": "2026-10-26T01:44:37.871Z"
 }
