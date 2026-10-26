@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "24912ceb5d7ba85bf614829c25374ca75ef70404",
-  "shortCommit": "24912ce",
-  "message": "chore 2026-10-25 — twins: the Genesis lane in step (the lanes base-path fix, the twin rule, PR template, Dependabot config, keys-and-locks)",
+  "commit": "ce45f4faa845a7d1e1310d360d45959fa780556f",
+  "shortCommit": "ce45f4f",
+  "message": "twins 2026-10-26 — Support David: the practice gift, mirrored file for file from theholyearthfoundation/david-amaringo 57d9182 (a shared feature)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-25T21:43:41-04:00",
-  "builtAt": "2026-10-26T01:44:37.871Z"
+  "committedAt": "2026-10-26T12:25:17-04:00",
+  "builtAt": "2026-10-26T16:26:40.722Z"
 }
