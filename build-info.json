@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "7aa9f9eb1754ea14afccb95f56d1e879764891da",
-  "shortCommit": "7aa9f9e",
-  "message": "twins 2026-10-26 — the builders' mark on the lab's Genesis tab: same change as theholyearthfoundation/david-amaringo 923905a (a shared lineage feature)",
+  "commit": "047abffffb962816687e81b8f5b86beb5d994685",
+  "shortCommit": "047abff",
+  "message": "twins 2026-10-26 — no wallet-style strings on the lab's Genesis rehearsal either: same changes as theholyearthfoundation/david-amaringo 39a6f51, 800e241 and 3faf697",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T15:39:26-04:00",
-  "builtAt": "2026-10-26T19:40:12.812Z"
+  "committedAt": "2026-10-26T18:54:38-04:00",
+  "builtAt": "2026-10-26T22:55:33.480Z"
 }
