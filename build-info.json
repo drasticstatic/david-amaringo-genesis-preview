@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "ce45f4faa845a7d1e1310d360d45959fa780556f",
-  "shortCommit": "ce45f4f",
-  "message": "twins 2026-10-26 — Support David: the practice gift, mirrored file for file from theholyearthfoundation/david-amaringo 57d9182 (a shared feature)",
+  "commit": "7aa9f9eb1754ea14afccb95f56d1e879764891da",
+  "shortCommit": "7aa9f9e",
+  "message": "twins 2026-10-26 — the builders' mark on the lab's Genesis tab: same change as theholyearthfoundation/david-amaringo 923905a (a shared lineage feature)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T12:25:17-04:00",
-  "builtAt": "2026-10-26T16:26:40.722Z"
+  "committedAt": "2026-10-26T15:39:26-04:00",
+  "builtAt": "2026-10-26T19:40:12.812Z"
 }
