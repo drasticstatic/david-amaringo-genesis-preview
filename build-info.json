@@ -1,10 +1,10 @@
 {
   "lane": "rehearsal",
   "branch": "preview",
-  "commit": "047abffffb962816687e81b8f5b86beb5d994685",
-  "shortCommit": "047abff",
-  "message": "twins 2026-10-26 — no wallet-style strings on the lab's Genesis rehearsal either: same changes as theholyearthfoundation/david-amaringo 39a6f51, 800e241 and 3faf697",
+  "commit": "60b0dc89224c0e575b55d50adb52efc92c2b2e0a",
+  "shortCommit": "60b0dc8",
+  "message": "twins 2026-10-27 — smooth trails on the lab's Genesis rehearsal too: same changes as theholyearthfoundation/david-amaringo c853237 and 8d9d1fd (the veil breathes without redrawing; the page's slow glows hold while you paint; lighter trail drawing). Five files copied file for file; layout.tsx took the same hunk (its share-card lines differ, the veil filter block is identical)",
   "author": "drasticstatic",
-  "committedAt": "2026-10-26T18:54:38-04:00",
-  "builtAt": "2026-10-26T22:55:33.480Z"
+  "committedAt": "2026-10-27T00:57:29-04:00",
+  "builtAt": "2026-10-27T04:58:13.999Z"
 }
